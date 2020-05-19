@@ -1,0 +1,8 @@
+com/antti/bookstore/domain/User.class
+com/antti/bookstore/domain/Book.class
+com/antti/bookstore/WebSecurityConfig.class
+com/antti/bookstore/BookstoreApplication.class
+com/antti/bookstore/web/BookController.class
+com/antti/bookstore/domain/UserRepository.class
+com/antti/bookstore/domain/BookRepository.class
+com/antti/bookstore/service/UserService.class
